@@ -1,0 +1,19 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.answer{
+    width: 15%;
+    height: 50px;
+    border: solid black 1px;
+    display: inline-block;
+    margin: 25px;
+    
+}
+#results{
+    clear: left;
+    margin: auto;
+    
+}
